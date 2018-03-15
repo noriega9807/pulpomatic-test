@@ -1,0 +1,6 @@
+/node_modules/
+/public/dist/
+.eslintrc
+.eslintrc.js
+.eslintignore
+ 

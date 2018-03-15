@@ -1,0 +1,13 @@
+{
+    "test": {
+      "PORT": 3000,
+      "MONGODB_URI": "mongodb://localhost:27017/PulpomaticTest",
+      "JWT_SECRET": "jdhfqeuyftestgq7348378qfgcb"
+    },
+    "development": {
+      "PORT": 3000,
+      "MONGODB_URI": "mongodb://localhost:27017/Pulpomatic",
+      "JWT_SECRET": "jdhfqeuyfgq7348378qfgcb"
+    }
+  
+  }
